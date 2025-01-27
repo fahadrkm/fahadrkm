@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fahadrkm@gmail.com**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahadrkm)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fahadrkm" alt="GitHub Streak" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
