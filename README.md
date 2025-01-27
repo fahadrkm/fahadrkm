@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [E-commercce web application](https://github.com/fahadrkm/e-commerce-)
 
 - 📫 How to reach me **fahadrkm@gmail.com**
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrkm&" alt="fahadrkm" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadrkm&show_icons=true&locale=en" alt="fahadrkm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrkm&" alt="fahadrkm" /></p>
+
