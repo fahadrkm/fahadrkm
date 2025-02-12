@@ -11,7 +11,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fahadrkm"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadrkm&show_icons=true&locale=en&layout=compact" alt="fahadrkm" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadrkm&show_icons=true&locale=en" alt="fahadrkm" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
