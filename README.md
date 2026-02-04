@@ -2,9 +2,9 @@
 <h3 align="center">Python Full-Stack Developer | Building Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadrkm&label=Profile%20views&color=0e75b6&style=flat" alt="fahadrkm" />
+  <img src="https://komarev.com/ghpvc/?username=fahadrkm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/fahadrkm?tab=followers">
-    <img src="https://img.shields.io/github/followers/fahadrkm?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/fahadrkm?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -79,28 +79,20 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadrkm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrkm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrkm&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadrkm&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <a href="https://github.com/fahadrkm">
+    <img src="https://img.shields.io/badge/Total%20Repos-View%20Profile-181717?style=for-the-badge&logo=github" alt="Total Repos">
+  </a>
+  <a href="https://github.com/fahadrkm?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20Out-My%20Work-0e75b6?style=for-the-badge&logo=github" alt="My Work">
+  </a>
 </p>
 
 ---
 
-## 🐍 Watch My Contribution Snake Eat My Contributions!
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fahadrkm/fahadrkm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -110,4 +102,11 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=fahadrkm&icon=2&color=6" alt="Visit Counter" />
+</p>
+
+---
+
+<p align="center">
+  <b>💼 Open to exciting opportunities and collaborations!</b><br>
+  📧 <a href="mailto:fahadrkm@gmail.com">fahadrkm@gmail.com</a>
 </p>
