@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahadrkm&theme=darkhub&no-frame=true&row=1&column=7" alt="fahadrkm" />
-  </a>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -88,12 +82,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadrkm&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrkm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadrkm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrkm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fahadrkm&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadrkm&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -102,14 +96,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadrkm&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadrkm&theme=github_dark" alt="Profile Summary" />
 </p>
 
 ---
