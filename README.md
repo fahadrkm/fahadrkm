@@ -82,21 +82,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fahadrkm&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadrkm&theme=github_dark" alt="Profile Summary" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/fahadrkm" alt="GitHub Contribution Chart" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fahadrkm&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -108,8 +94,6 @@
 </p>
 
 ---
-
-## 📫 Let's Connect
 
 <p align="center">
   <b>💼 Open to exciting opportunities and collaborations!</b><br>
