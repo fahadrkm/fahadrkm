@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm FAHAD M</h1>
+<h1 align="center">Hi there I'm FAHAD M  👋</h1>
 <h3 align="center">Python Full-Stack Developer | Building Scalable Web Solutions</h3>
 
 <p align="center">
