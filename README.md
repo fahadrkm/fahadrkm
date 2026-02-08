@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/github/followers/fahadrkm?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
-
 ---
 
 ## 💫 About Me
