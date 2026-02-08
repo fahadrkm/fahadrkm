@@ -1,6 +1,5 @@
 <h1 align="center">Hi there I'm FAHAD M  👋</h1>
 <h3 align="center">Python Full-Stack Developer | Building Scalable Web Solutions</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahadrkm&label=Profile%20views&color=0e75b6&style=flat" alt="fahadrkm" />
   <a href="https://github.com/fahadrkm?tab=followers">
