@@ -7,7 +7,7 @@
   </a>
 </p>
 ---
-
+ 
 ## 💫 About Me
 
 🔭 I'm currently working as a **Software Developer**, specializing in building scalable web applications with Django and modern frontend technologies.
